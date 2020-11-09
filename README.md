@@ -1,0 +1,1 @@
+[![Board Status](https://sede-gf-hse.visualstudio.com/f9050cda-10cc-4222-aa7b-f1cc7b4992b1/fef51d6d-182b-4b73-b380-adba8c7e17a9/_apis/work/boardbadge/5c365a28-7062-4c60-b755-c925758bfb13)](https://sede-gf-hse.visualstudio.com/f9050cda-10cc-4222-aa7b-f1cc7b4992b1/_boards/board/t/fef51d6d-182b-4b73-b380-adba8c7e17a9/Microsoft.RequirementCategory)
